@@ -1,3 +1,3 @@
-# plugin-bugsnag-js
+# Bellows Bugsnag JS Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/bugsnag-js](https://bellows.dev/docs/plugins/bugsnag-js)
